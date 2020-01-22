@@ -1,6 +1,6 @@
 # bigcommerce-stencil-cornerstone
 
-UI Components for Bigcommerce Cornerstone Theme
+UI Components for BigCommerce Cornerstone Theme
 
 - **Performance** - results provided in milliseconds.
 - **Scalability** - SaaS software is hosted in Google Cloud.
