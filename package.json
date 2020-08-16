@@ -4,7 +4,7 @@
     "type": "git",
     "url": "git+https://github.com/mezereon-co/bigcommerce-stencil-cornerstone"
   },
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "UI Components for BigCommerce Cornerstone Theme",
   "author": "Mezereon Inc.",
   "license": "MIT",
