@@ -92,7 +92,7 @@
                 <span
                   v-else-if="
                     item.inventory_tracking === 'product' &&
-                      item.inventory_level === 0
+                    item.inventory_level === 0
                   "
                 ></span>
                 <a
